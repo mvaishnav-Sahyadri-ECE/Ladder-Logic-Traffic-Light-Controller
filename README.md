@@ -52,4 +52,6 @@ This project is a basic traffic light controller implemented in Ladder Logic usi
 
 https://github.com/user-attachments/assets/da2894ac-341b-4f2f-8085-a2e66f098470
 
+# Team Member 
 
+[Pranith Kumar]([https://github.com/kunalg123](https://github.com/Pranith-Kumar-18?tab=repositories))
